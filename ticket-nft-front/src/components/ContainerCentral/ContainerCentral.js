@@ -15,7 +15,7 @@ const ContainerCentral = (props) => {
 
 const StyledContainerCentral = styled.div`
   background-color: #f5f5f5;
-  padding: 10px;
+  padding: 15px;
   border-radius: 5px;
   margin-bottom: 10px;
 `;
